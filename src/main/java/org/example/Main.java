@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello ME!");
-        System.out.println("I LOVE PYTHON");
+        System.out.println("I LOVE GO");
+
     }
 }
